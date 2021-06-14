@@ -1,1 +1,1 @@
-# data-science-assignments
+# data-science
